@@ -1,0 +1,23 @@
+Rotate Left/Right: left and right arrow keys
+
+Zoom in/out: up and down arrow keys
+
+Move model up/down/left/right: W S A D
+
+Add point: P
+
+Click and drag on point to move point
+
+Right click point to remove point
+
+9 to decrease depth of subdivision
+0 to increase depth of subdivision
+
+
+I used the updated tutorial 20 file as a base. I copied all the shaders and code relating to calculating vertex
+normals and setting up shaders from my assignment 2 file. I copied the subdivision algorithm from the lecture
+notes.  
+
+
+
+
